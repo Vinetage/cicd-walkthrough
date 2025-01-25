@@ -6,7 +6,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.7.1</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath/> <!-- lookup parent from repository 3.4.2 23-->
 	</parent>
 	<groupId>sg.edu.nus.iss</groupId>
 	<artifactId>d13revision</artifactId>
@@ -14,7 +14,7 @@
 	<name>d13revision</name>
 	<description>Day 13 revision project for Spring Boot</description>
 	<properties>
-		<java.version>18</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
